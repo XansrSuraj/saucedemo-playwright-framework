@@ -7,7 +7,7 @@ from pages.loginpage import LoginPage
 @pytest.mark.smoke
 @pytest.mark.login
 def test_valid_login_flow(logged_in_page):
-    expect(logged_in_page).to_have_url("https://www.saucedemo.com/inentory.html")
+    expect(logged_in_page).to_have_url("https://www.saucedemo.com/inventory.html")
 
     
 
