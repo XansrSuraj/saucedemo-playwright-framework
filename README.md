@@ -1,5 +1,5 @@
 # 🛒 SauceDemo E-Commerce Automation Framework
-
+![Tests](https://github.com/XansrSuraj/saucedemo-playwright-framework/actions/workflows/tests.yml/badge.svg)
 An **End-to-End Test Automation Framework** built using **Playwright and Pytest** to test the complete e-commerce workflow of [SauceDemo](https://www.saucedemo.com/) — from **user login to successful order completion**.
 
 The framework follows the **Page Object Model (POM)** design pattern, making the test code clean, reusable, and easy to maintain.
